@@ -1,1 +1,1 @@
-Projects using pygame
+Projects using pygame.
