@@ -1,2 +1,1 @@
-# arcade
-pygame projects
+Projects using pygame
